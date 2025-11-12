@@ -1,1 +1,1 @@
-a simple Python-based Command Line Interface (CLI) tool that allows students to input their personal and academic details and generates a neatly formatted student profile card.
+a Python-based Command Line Interface (CLI) tool that allows students to enter their professional and academic details thus generating a pre formatted student profile id card for college/job purposes.

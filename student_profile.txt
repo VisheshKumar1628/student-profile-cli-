@@ -1,0 +1,12 @@
+------------------------------------
+      STUDENT PROFILE SYSTEM        
+------------------------------------
+Name: Vishesh Kumar
+Roll No: 2501660012
+Course: BCA (Cyber Security)
+University: KRMU
+City: Bhiwani
+Age: 19
+Hobby: Reading Books
+----------------------------------------
+Welcome to Python Programming!
